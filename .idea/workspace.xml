@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23e76d95-9aa9-44a2-88a2-b5c0697fd172" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="23e76d95-9aa9-44a2-88a2-b5c0697fd172" name="Changes" comment="git commit -m&quot;git inital&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +12,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2ToBR8b8iPMHWbWgEkO7JVfqbQ3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,7 +27,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/blood/IdeaProjects/Java_1",
     "onboarding.tips.debug.path": "C:/Users/blood/IdeaProjects/Java_1/src/Main.java"
   }
 }]]></component>
@@ -61,6 +54,39 @@
       <option name="presentableId" value="Default" />
       <updated>1691699543488</updated>
     </task>
+    <task id="LOCAL-00001" summary="git commit -m&quot;git inital&quot;">
+      <option name="closed" value="true" />
+      <created>1691703962213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691703962213</updated>
+    </task>
+    <task id="LOCAL-00002" summary="git commit -m&quot;git inital&quot;">
+      <option name="closed" value="true" />
+      <created>1691703985915</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691703985915</updated>
+    </task>
+    <task id="LOCAL-00003" summary="git commit -m&quot;git inital&quot;">
+      <option name="closed" value="true" />
+      <created>1691704086635</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691704086635</updated>
+    </task>
+    <task id="LOCAL-00004" summary="git commit -m&quot;git inital&quot;">
+      <option name="closed" value="true" />
+      <created>1691704143232</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691704143232</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,5 +99,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git commit -m&quot;git inital&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -m&quot;git inital&quot;" />
   </component>
 </project>
